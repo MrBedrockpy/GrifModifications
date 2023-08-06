@@ -1,0 +1,14 @@
+me\mrbedrockpy\util\craft\crafttypes\impls\ShapelessCraft.class
+me\mrbedrockpy\util\EntityBuilder.class
+me\mrbedrockpy\griefmodification\events\TntEvents.class
+me\mrbedrockpy\util\ConfigManager.class
+me\mrbedrockpy\util\craft\CraftingManager$1.class
+me\mrbedrockpy\util\craft\crafttypes\Craft.class
+me\mrbedrockpy\util\ItemBuilder.class
+me\mrbedrockpy\griefmodification\CustomItems.class
+me\mrbedrockpy\util\ChatUtil.class
+me\mrbedrockpy\griefmodification\Plugin.class
+me\mrbedrockpy\util\TeamBuilder.class
+me\mrbedrockpy\util\craft\crafttypes\impls\ShapedCraft.class
+me\mrbedrockpy\util\Hologram.class
+me\mrbedrockpy\util\craft\CraftingManager.class

@@ -1,0 +1,4 @@
+name: GriefModification
+version: '${project.version}'
+main: me.mrbedrockpy.griefmodification.Plugin
+api-version: '1.19'
